@@ -14,6 +14,7 @@ $CFGDIR/accessories/tmc2209
 $CFGDIR/accessories/reprap_discount_full_graphic_lcd
 $CFGDIR/accessories/dual-drivers-on-yz
 $CFGDIR/boards/skr_turbo_1p4_dual
+$CFGDIR/accessories/TFT35_e3_v3_CNC
 
 opt_set Y2_DRIVER_TYPE "TMC2209"
 opt_set Z2_DRIVER_TYPE "TMC2209"
